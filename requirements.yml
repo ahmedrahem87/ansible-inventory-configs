@@ -1,0 +1,4 @@
+---
+collections:
+  - name: netbox.netbox
+    version: 3.12.0 # You can check the latest version on Ansible Galaxy if needed
